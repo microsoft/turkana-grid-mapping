@@ -62,7 +62,7 @@ This project uses TIFF files of aerial imagery, corresponding point vector label
 labels (for electrical lines), as GeoJSON or GeoPackage files. You can request a small sample dataset hosted on Azure blob storage,
 collected by USA for UNHCR and the Humanitarian OpenStreetMap Team:
 
-1. Request a data download url USA for UNHCR.
+1. Request a data download URL from USA for UNHCR.
 
 2. Once you have the URL, you can use it to access the data on Azure blob storage. Here's an example of how you can download the data with `azcopy`:
 

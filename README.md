@@ -62,22 +62,13 @@ This project uses TIFF files of aerial imagery, corresponding point vector label
 labels (for electrical lines), as GeoJSON or GeoPackage files. You can request a small sample dataset hosted on Azure blob storage,
 collected by USA for UNHCR and the Humanitarian OpenStreetMap Team:
 
-1. Request a Shared Access Signature (SAS) token. You can do this by contacting USA for UNHCR.
+1. Request a data download url USA for UNHCR.
 
-2. Once you have the SAS token, you can use it to access the data on Azure blob storage. Here's an example of how you can do this in Python:
+2. Once you have the URL, you can use it to access the data on Azure blob storage. Here's an example of how you can download the data with `azcopy`:
 
-``` from azure.storage.blob import BlobServiceClient
-
-sas_token = "<your_sas_token>"
-blob_service_client = BlobServiceClient(account_url="<your_storage_account_url>", credential=sas_token)
-
-blob_client = blob_service_client.get_blob_client("<your_container_name>", "<your_blob_name>")
-
-with open("<your_local_path>", "wb") as download_file:
-    download_file.write(blob_client.download_blob().readall())
 ```
-
-Remember to replace <your_sas_token>, <your_storage_account_url>, <your_container_name>, <your_blob_name>, and <your_local_path> with your actual values.
+azcopy copy --recursive <AZURE_BLOB_URL> <DESTINATION_PATH>
+```
 
 The downloaded raw data folder contains `power_infrastructure_demo` data that can be used to follow the sample [tutorial](TUTORIAL.md).
 

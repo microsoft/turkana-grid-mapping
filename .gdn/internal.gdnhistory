@@ -4,5 +4,233 @@
     "hydrationStatus": "This file does not contain identifying data. It is safe to check into your repo. To hydrate this file with identifying data, run `guardian hydrate --help` and follow the guidance."
   },
   "version": "1.0.0",
-  
+  "snapshots": {
+    "history.run.202403071349": {
+      "name": "history.run.202403071349",
+      "createdDate": "2024-03-07 21:50:11Z",
+      "lastUpdatedDate": "2024-03-07 21:50:11Z"
+    }
+  },
+  "results": {
+    "7e3ef83b16cb71b45d204adeb36c72d1d9fe5d7434db7b2482c8ddeed764515f": {
+      "signature": "7e3ef83b16cb71b45d204adeb36c72d1d9fe5d7434db7b2482c8ddeed764515f",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/LocCultures.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "79570",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "16a13628229a52dc3d3bd38abd04face97446f138f256a423007f12a71b431f8": {
+      "signature": "16a13628229a52dc3d3bd38abd04face97446f138f256a423007f12a71b431f8",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/LocCultures.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "166979",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "4f22d1818c7d63df1876561ba22c7fa31653ed5bbefac0eb699a5f22b9515512": {
+      "signature": "4f22d1818c7d63df1876561ba22c7fa31653ed5bbefac0eb699a5f22b9515512",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/LocCultures.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "214171",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "9adff0145af732b5c098c17190c4375e915879d2cb36114091cb851cfbe91a37": {
+      "signature": "9adff0145af732b5c098c17190c4375e915879d2cb36114091cb851cfbe91a37",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/LocCultures.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "185841",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "6885d569864aefe14ebd13525c759364de4da645925967627cac572abac81e86": {
+      "signature": "6885d569864aefe14ebd13525c759364de4da645925967627cac572abac81e86",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/LocCultures.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "185841",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "880b0d924e16f89e74cf056c1fbd6cb2df0ef1e123ed403f70f58859455142fe": {
+      "signature": "880b0d924e16f89e74cf056c1fbd6cb2df0ef1e123ed403f70f58859455142fe",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/LocCultures.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "185841",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "0324c4001095f7280184142463ecc2df68bdf3f28471c6480ac579883bd85752": {
+      "signature": "0324c4001095f7280184142463ecc2df68bdf3f28471c6480ac579883bd85752",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/LocCultures.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "80160",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "87c489feb4649628832b7b7dbeddf25cea1ad05251c8f687da4e33511b0e2d2d": {
+      "signature": "87c489feb4649628832b7b7dbeddf25cea1ad05251c8f687da4e33511b0e2d2d",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/LocCultures.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "79930",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "7500c39943152ae77ed0abfb09b5814d6ba9a1f6f316f22b982e5d18b6575377": {
+      "signature": "7500c39943152ae77ed0abfb09b5814d6ba9a1f6f316f22b982e5d18b6575377",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/LocCultures.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "92395",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "cabbd36a3608bab001afc8bbe78991183b157699b92f6d486d0dcb0537c47e10": {
+      "signature": "cabbd36a3608bab001afc8bbe78991183b157699b92f6d486d0dcb0537c47e10",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/LocCultures.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "185843",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "4f8a5b8c6368bcfdd2cc4de771fdb243c7d614fac1f7bf439e9ff1bdeb25adb3": {
+      "signature": "4f8a5b8c6368bcfdd2cc4de771fdb243c7d614fac1f7bf439e9ff1bdeb25adb3",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/LocCultures.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "185843",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "3576f56b3145bc7f69d481e364240de42410c42a0a76df770a92e9f834def554": {
+      "signature": "3576f56b3145bc7f69d481e364240de42410c42a0a76df770a92e9f834def554",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/LocCultures.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "185837",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "36831090002f81692e4eca22e74ca64262d5cfa44bc90d95a913783c61c0e0a7": {
+      "signature": "36831090002f81692e4eca22e74ca64262d5cfa44bc90d95a913783c61c0e0a7",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/LocCultures.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "185837",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "765117ba08698897cb892657984b5e95dfa99d0425221ad0b300230c973fced3": {
+      "signature": "765117ba08698897cb892657984b5e95dfa99d0425221ad0b300230c973fced3",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/LocCultures.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "80422",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "16975f21a87e3e12672b68646b7ebf1b0eb6594eedce815fa348b6f020333b95": {
+      "signature": "16975f21a87e3e12672b68646b7ebf1b0eb6594eedce815fa348b6f020333b95",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/LocCultures.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "80422",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "b7d01b530432949d8f0d2438e170cdc7bd17879d339841601b17ddfcd2b9a660": {
+      "signature": "b7d01b530432949d8f0d2438e170cdc7bd17879d339841601b17ddfcd2b9a660",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/Config/languagelist.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "79930",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "386d1dade9b6fe6f2035fb644bf4c3847b907787414b7383b094fc9413b7eea2": {
+      "signature": "386d1dade9b6fe6f2035fb644bf4c3847b907787414b7383b094fc9413b7eea2",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/Config/languagelist.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "213646",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "bd04d3a0ccf625b3362e00870837a8abc1e24a4e3ec2370ba2cae3497f46cdee": {
+      "signature": "bd04d3a0ccf625b3362e00870837a8abc1e24a4e3ec2370ba2cae3497f46cdee",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/Config/languagelist.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "213875",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "10dcb7bf25354656be2ad6b8e1eb18e7363b178a10c44dca3e708bb9722a9bfd": {
+      "signature": "10dcb7bf25354656be2ad6b8e1eb18e7363b178a10c44dca3e708bb9722a9bfd",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/Config/languagelist.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "172214",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "a55cd302f2ec6a685af6e9cea9a6eb34d366ab7504bb39d672e74e54ceac3662": {
+      "signature": "a55cd302f2ec6a685af6e9cea9a6eb34d366ab7504bb39d672e74e54ceac3662",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/Config/languagelist.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "80160",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "b8c1005c8f7110c7ac747fb62c61ab9b20ac110a1b8b5da6935b76a4e7c0886c": {
+      "signature": "b8c1005c8f7110c7ac747fb62c61ab9b20ac110a1b8b5da6935b76a4e7c0886c",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/Config/languagelist.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "79930",
+      "createdDate": "2024-03-07 21:50:11Z"
+    },
+    "5af325d4086265db244bff491dc4334f61cfce752251ef8ad4f01ba771e83d6f": {
+      "signature": "5af325d4086265db244bff491dc4334f61cfce752251ef8ad4f01ba771e83d6f",
+      "target": ".gdn/i/nuget/Microsoft.StaticAnalysis.PoliCheck.7.1.23080801/tools/Config/languagelist.xml",
+      "memberOf": [
+        "history.run.202403071349"
+      ],
+      "tool": "policheck",
+      "ruleId": "214171",
+      "createdDate": "2024-03-07 21:50:11Z"
+    }
   }
+}
